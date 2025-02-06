@@ -1,1 +1,1 @@
-# shopkeeper-records-ML-Model
+### A shopkeeper keeps records of his customers like age, gender, and annual income. Now, he wants to enhance his business by offering attractive deals. How should the shopkeeper provide these offers to his customers. A machine learning model using Kmeans algorithm and help shopkeeper to identify group of customers.
